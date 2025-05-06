@@ -5,7 +5,7 @@
 
 ## ✅ Progress Tracker
 
-- [ ] 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy
+- [✅] 1. [Two Sum](https://leetcode.com/problems/two-sum/) - Easy
 - [ ] 2. [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - Easy
 - [ ] 3. [Merge Intervals](https://leetcode.com/problems/merge-intervals/) - Medium
 - [ ] 4. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) - Medium
