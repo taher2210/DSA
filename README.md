@@ -17,7 +17,7 @@
 - [ ] 10. [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - Easy
 - [ ] 11. [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) - Medium
 - [✅] 12. [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) - Medium
-- [ ] 13. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium
+- [✅] 13. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) - Medium
 - [✅] 14. [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) - Medium
 - [ ] 15. [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) - Medium
 - [ ] 16. [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - Easy
