@@ -25,6 +25,7 @@
 - [ ] 18. [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) - Medium
 - [ ] 19. [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - Medium
 - [ ] 20. [LRU Cache](https://leetcode.com/problems/lru-cache/) - Medium
+- [✅] 21. [sort 3 colours](https://leetcode.com/problems/sort-colors/) - Medium
 
 ---
 
